@@ -1,0 +1,38 @@
+{
+    "root": {
+        "data": {
+            "id": "ctt9qvq31080",
+            "created": 1688461776127,
+            "text": "root(withREADME.KM)"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ctt9r40u6yg0",
+                    "created": 1688461794191,
+                    "text": "RISI"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ctt9r55zgw00",
+                    "created": 1688461796679,
+                    "text": "notes"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ctt9rd24dxs0",
+                    "created": 1688461813860,
+                    "text": "H"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

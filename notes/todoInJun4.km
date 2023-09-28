@@ -1,0 +1,364 @@
+{
+    "root": {
+        "data": {
+            "id": "ctt9vned3880",
+            "created": 1688462149825,
+            "text": "todoInJun4"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cttcxlw5wlk0",
+                    "created": 1688470766605,
+                    "text": "生活"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cttcy1t31ag0",
+                            "created": 1688470801248,
+                            "text": "运动为首"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cttcycp947c0",
+                            "created": 1688470824961,
+                            "text": "记账"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cttczibza9c0",
+                            "created": 1688470915583,
+                            "text": "说自己的工作习惯"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cttdh6y8bqw0",
+                                    "created": 1688472301362,
+                                    "text": "喝水"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cttdh978otc0",
+                                    "created": 1688472306260,
+                                    "text": "颈椎"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cttdha1vf280",
+                                    "created": 1688472308113,
+                                    "text": "腰椎"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cttdsdpchu80",
+                                    "created": 1688473178068,
+                                    "text": "每天的健康自查手册"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cttcxo4yq8w0",
+                    "created": 1688470771491,
+                    "text": "工作"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cttcxwcxl800",
+                            "created": 1688470789387,
+                            "text": "完善笔记系统"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cttcy3ljvkw0",
+                                    "created": 1688470805146,
+                                    "text": "关于检测每日生活健康"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cttcy71wdxk0",
+                                    "created": 1688470812665,
+                                    "text": "总的，关于生活健康的建议"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cttds2fj28o0",
+                                    "created": 1688473153530,
+                                    "text": "回看自己笔记"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cttcyk2a6kg0",
+                            "created": 1688470840987,
+                            "text": "电子"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cttcymjd1340",
+                                    "created": 1688470846372,
+                                    "text": "workForMetal"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd69s1ovc0",
+                                            "created": 1688471445513,
+                                            "text": "看TL论文"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6ca4l1k0",
+                                            "created": 1688471450959,
+                                            "text": "论文中计算"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6efal9c0",
+                                            "created": 1688471455625,
+                                            "text": "做电路仿真"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6h9jfhc0",
+                                            "created": 1688471461808,
+                                            "text": "想看VIPSON"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6nspers0",
+                                            "created": 1688471476027,
+                                            "text": "b站电路从向量法开始看"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd70emriw0",
+                                            "created": 1688471503475,
+                                            "text": "topic"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cttcz9w2zg00",
+                                    "created": 1688470897208,
+                                    "text": "自己想法"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd6rd8ogo0",
+                                            "created": 1688471483799,
+                                            "text": "学AD"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6uc2hf40",
+                                            "created": 1688471490259,
+                                            "text": "想画一个FPGA板子"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttdt93b7xc0",
+                                            "created": 1688473246393,
+                                            "text": "想做一个矿石收音机"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cttcyrb95ig0",
+                            "created": 1688470856766,
+                            "text": "AI"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cttd4mybnoo0",
+                                    "created": 1688471317462,
+                                    "text": "语音识别"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd53kkczk0",
+                                            "created": 1688471353635,
+                                            "text": "手机recoder中有例子"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd5a1w6k00",
+                                            "created": 1688471367744,
+                                            "text": "whisper"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cttd5hr6hsw0",
+                                    "created": 1688471384510,
+                                    "text": "本地OCR or recognize everthing"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd5oze7o00",
+                                            "created": 1688471400244,
+                                            "text": "手机相册"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cttd5sv02oo0",
+                                    "created": 1688471408686,
+                                    "text": "本地run一个大语言模型"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd5ye6o800",
+                                            "created": 1688471420730,
+                                            "text": "LLaMa"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd6580mr40",
+                                            "created": 1688471435594,
+                                            "text": "lora"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cttdj4u0vnc0",
+                                    "created": 1688472453482,
+                                    "text": "想要处理一下自己的neoTim里面数据"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cttd4oguaxs0",
+                            "created": 1688471320759,
+                            "text": "coder"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cttd4pmnhd40",
+                                    "created": 1688471323287,
+                                    "text": "傅立叶画图"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cttd4rxhq680",
+                                            "created": 1688471328296,
+                                            "text": "基于AC电路理论"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cttd4vmc5rs0",
+                                            "created": 1688471336328,
+                                            "text": "3b1b manim"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cttdjbf5xe80",
+                                    "created": 1688472467821,
+                                    "text": "neoTim"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cttcxovkgyo0",
+                    "created": 1688470773100,
+                    "text": "关系"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cttcyfdv6go0",
+                            "created": 1688470830803,
+                            "text": "大原则"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

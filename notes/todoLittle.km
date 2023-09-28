@@ -1,0 +1,79 @@
+{
+    "root": {
+        "data": {
+            "id": "ctte8857oqg0",
+            "created": 1688474419793,
+            "text": "MainTopic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ctte8avw1kg0",
+                    "created": 1688474425760,
+                    "text": "微信对话"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ctte8dn85q80",
+                    "created": 1688474431767,
+                    "text": "照片"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cttj57qodso0",
+                    "created": 1688488289372,
+                    "text": "想看书"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cttj5d3hhh40",
+                    "created": 1688488301030,
+                    "text": "工作的时候要计时"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cttj5oez7go0",
+                    "created": 1688488325669,
+                    "text": "看过去笔记"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cttj5shap7c0",
+                    "created": 1688488334517,
+                    "text": "en"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cttj5wylf6o0",
+                            "created": 1688488344270,
+                            "text": "从youtube来"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cttj5ytigkw0",
+                            "created": 1688488348316,
+                            "text": "思维"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

@@ -1,0 +1,115 @@
+{
+    "root": {
+        "data": {
+            "id": "cvnunfp5gnc0",
+            "created": 1695223706598,
+            "text": "coneSKD"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cvnunma71200",
+                    "created": 1695223720931,
+                    "text": "H"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvnuo0eiyhs0",
+                            "created": 1695223751668,
+                            "text": "7.后不吃饭 and 细嚼慢咽"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cvnuo17eauw0",
+                            "created": 1695223753413,
+                            "text": "工作20min！"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cvnunr5f1280",
+                    "created": 1695223731526,
+                    "text": "life"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvnuohwm0400",
+                            "created": 1695223789766,
+                            "text": "swim"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cvnuolrvoxk0",
+                                    "created": 1695223798187,
+                                    "text": "自游泳可以学了"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cvnuoxrar2g0",
+                            "created": 1695223824275,
+                            "text": "静下来看看书嘛！"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cvnuqrrg3200",
+                            "created": 1695223967950,
+                            "text": "多看看手表，做什么在几点花了多少时间，像康讯，手表不是摆设！"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cvnunss3g740",
+                    "created": 1695223735074,
+                    "text": "study"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvnuo7xc76w0",
+                            "created": 1695223768043,
+                            "text": "想呆在图书馆"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cvnunu5ylxc0",
+                    "created": 1695223738089,
+                    "text": "myLove"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvnuoce8ft40",
+                            "created": 1695223777771,
+                            "text": "shanghaiTrip"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

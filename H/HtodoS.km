@@ -1,0 +1,89 @@
+{
+    "root": {
+        "data": {
+            "id": "cu8lg4cpmcw0",
+            "created": 1690018185572,
+            "text": "MainTopic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cu8lg7xwvrk0",
+                    "created": 1690018193385,
+                    "text": "总"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cu8lg9bedfs0",
+                            "created": 1690018196377,
+                            "text": "饮食"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cu8lgddrhy80",
+                            "created": 1690018205227,
+                            "text": "运动"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cu8lgf1cdy00",
+                            "created": 1690018208830,
+                            "text": "心态"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cu8lgh14e1s0",
+                    "created": 1690018213170,
+                    "text": "肠胃"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cu8lgi83y480",
+                            "created": 1690018215769,
+                            "text": "便秘"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cvnun1j5j2g0",
+                            "created": 1695223675760,
+                            "text": "7.后不吃饭 and 细嚼慢咽"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cu8lgk82jhk0",
+                    "created": 1690018220120,
+                    "text": "颈椎腰椎"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cvnumorr8400",
+                            "created": 1695223647982,
+                            "text": "工作20min！"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
