@@ -1,0 +1,114 @@
+{
+    "root": {
+        "data": {
+            "id": "cw0iu8cobbk0",
+            "created": 1696510665273,
+            "text": "lonely"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cw0ivhwu5fk0",
+                    "created": 1696510764447,
+                    "text": "H"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cw0ivop1g0w0",
+                    "created": 1696510779213,
+                    "text": "life"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cw0ivju2hfs0",
+                    "created": 1696510768633,
+                    "text": "Emotional"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cw0ivlf77qo0",
+                    "created": 1696510772088,
+                    "text": "work"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cw0iy4nojjs0",
+                            "created": 1696510970688,
+                            "text": "attitude"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cw0iy6uk1w80",
+                                    "created": 1696510975457,
+                                    "text": "认真细心做好一件事"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cw0iy0vdyag0",
+                            "created": 1696510962447,
+                            "text": "content",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cw0ivsiqvs00",
+                                    "created": 1696510787540,
+                                    "text": "变轨"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cw0ivwy2zb40",
+                                    "created": 1696510797174,
+                                    "text": "stm32"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cw0iw3mmd740",
+                                    "created": 1696510811718,
+                                    "text": "zvs"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cw0iwa32q1c0",
+                                    "created": 1696510825774,
+                                    "text": "searchEngine"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cw0iweid0lk0",
+                                    "created": 1696510835406,
+                                    "text": "qGIS"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
